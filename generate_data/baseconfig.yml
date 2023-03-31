@@ -1,0 +1,6 @@
+dataset: Kaist
+node_num: 92
+window_size: 10
+train_rate: 0.8
+test_rate: 0.2
+batch_size: 1
